@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="ar">
+    <head>
+        <meta charset="UTF-8" />
+        <title> Accueil : Robbie Lens </title>
+        <link href="style.css" rel="stylesheet" />
+    </head>
+
+    <body>
+        <!--Logo de robbie lens-->
+        <div>
+            <a href="index.html">
+                <img src="images/logo.png" alt="robbie lens logo" title="lens logo"/>
+           </a>
+           <a href="dossier-memo/a-propos.html">À propos</a>
+        </div>
+                
+        <h1 class="test">Photographie</h1>
+        <p>
+            Où <span class="myclass">professionalisme</span> s’allie avec <span class="myclass">passion</span>. Depuis plus de 5 ans maintenant, j’exerce mon métier avec la passion
+            qui m’anime : capturer l’essence de chaque instant.
+        </p>
+
+        <!--photo de Robbie-->
+        <a href="images/robbie-lens.png">
+        <img src="images/robbie-lens.png" alt="photo de robbie" title="my pic "/>
+        </a>
+
+       
+        <h2 > Allez ,feel free</span> de me contacter</h2>
+        <ul>
+            <li>mon email : <strong>robbie@photo.fr</strong> </li>
+            <li> mon instagram : <strong>robbielens</strong> </li>
+
+        </ul>
+        <h2> Pourquoi devons-nous travailler ensemble ? </h2>
+        <ol>
+            <li> Travail ponctuel, <em>retard négligeable</em> </li>
+            <li> Design professionel </li>
+            <li> Contact regulier </li>
+        </ol>
+
+       <h2> <a href="dossier-memo/a-propos.html">A Propos</a> </h2>
+
+       <h2> Reseaux sociaux </h2> 
+        <!--social media-->
+       <ul>
+           <!--site twitter--> 
+            <li> <a href="https://twitter.com/" target="_blank"> 
+            <img src="images/twitter.png" alt="twitter de Robbie" title="mytwitter" /> 
+            </a>   </li>    
+           
+           <!--site instagram-->
+            <li> <a href="https://www.instagram.com/" target="_blank"> 
+            <img src="images/instagram.png" alt="instagram de Robbie" title="myinsta" id="logo" />
+            </a>   </li>
+        
+        </ul>
+
+        <!--LOGO-->
+        <div>
+            <a href="index.html">
+                <img src="images/logo.png" alt="robbie lens logo" title="lens logo"/>
+           </a>
+           <a href="dossier-memo/a-propos.html">À propos</a>
+        </div>
+        
+       
+
+
+
+        
+    </body>
+
+
+
+
+
+</html>
