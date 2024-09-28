@@ -10,3 +10,5 @@ This repo is a series of workshops from the html and css course by openclassroom
 # Install the repo ? 
 `git clone https://github.com/son-of-mountain/RobbieLens-portfolio.git`
 # Info about the course provider
+The french online school is OpenClassrooms
+
