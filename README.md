@@ -13,3 +13,7 @@ This repo is a series of workshops from the html and css course by openclassroom
 The french online school is OpenClassrooms
 # Link to the course
 please check `openclassrooms.com`
+# School social media
+<a href="https://www.linkedin.com/school/openclassrooms/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
